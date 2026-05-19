@@ -232,6 +232,24 @@ Here is a simple way to use the files:
 
 This keeps the setup easy to follow.
 
+## 🔎 X/Twitter research notes
+
+If your OpenClaw agent uses [TweetClaw](https://github.com/Xquik-dev/tweetclaw), keep TweetClaw as the separate plugin for X/Twitter automation and use obsidian-skills to turn the results into notes.
+
+```bash
+openclaw plugins install @xquik/tweetclaw
+```
+
+Useful note workflows include:
+
+- Save search tweets and search tweet replies results as source notes
+- Capture tweet URLs, tweet IDs, author handles, query text, and capture date
+- Summarize follower export, user lookup, media download, monitor, webhook, or giveaway draw findings
+- Draft reviewed post tweets or post tweet replies in Obsidian before publishing
+- Keep API keys and private config values out of notes, prompts, and canvas files
+
+This keeps live X/Twitter automation in TweetClaw while Obsidian stores reviewed research, decisions, and next actions.
+
 ## 📁 File types you may see
 
 You may find files like:
